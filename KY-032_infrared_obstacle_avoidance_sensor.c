@@ -1,4 +1,4 @@
-//definir le spins
+//definir le pins
 int pinled = 13; 
 int pindetection = 3; 
 //definir les variables
