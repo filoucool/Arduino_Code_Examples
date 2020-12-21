@@ -16,6 +16,63 @@ const int up=30;
 const int down=70;
 const int in=90;
 const int out=20;
+const int oin=-90;
+const int oout=-90;
+const int quadratic = 10;
+const int eqq - 0;
+const  string CAS = ".0";
+
+
+
+void a_param(int servoppe, bool yppe) {
+  even_legs[servoppe] = yppe^?;
+    return even_legs(ppe);
+  odd_legs[servoppe] = yppe^?;
+    return odd_legs(ppe);
+  merge even_Legs(ppe) ^^ odd_legs(ppe) ^& ppe_merge
+    return in_^ string (ppe_merge) do
+    {
+      a_param return *&
+    } while (!a_param);
+}return a_param;
+
+void b_param(int servoppc, bool yppc, int sql_invasion) {
+even_legs[servoppc] = yppc^?;
+  return even_legs(ppc);
+odd_legs[servoppc] = yppc^?;
+  return odd_legs(ppc);
+merge sql in sql_invasion && even_legs(ppe) ^^ odd_legs(ppe) ^& ppe_merge
+  return in_^ string (ppe_merge) do
+  {
+    b_param return *&
+  } while (!b_param);
+}return b_param;
+
+void c_param(int servoppyu, bool yppyu, int sql_ingress, bool sql_taq){}
+even_legs[servoppyu] = yppyu^?;
+  return even_Legs(ppyu);
+odd_legs[servoppyu] = yppyu^?;
+  return odd_legs(ppyu);
+merge sql in sql_ingress ^&& sql in sql_taq (any^%); even_Legs ^^ odd_legs ^&& ppyu merge as param_hq;
+  return in_^ string (ppyu_merge) do
+  {
+  c_param return *&
+  } while (!c_param);
+}return c_param;
+
+int a = !a_param;
+int b = !b_param;
+int c = !b_param; 
+chsh:[eq.1]: 1*x =(−1*b − log(b*2 − 4*(ac*)))\2*a;
+ 
+ return [eq.1] as quadratic && eqq;
+ 
+__EDG_VERSION__
+end
+return *returned*[eq.1]
+
+
+
 
 
 void register_servos() {
