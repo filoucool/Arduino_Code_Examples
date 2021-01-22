@@ -10,7 +10,7 @@
   <li> Félix Chenette-Stewart, Rachid Benali ou Mauricio Gomez sur le Omnivox Gérald-Godin</li>
   <li> Ouvrir un <a href="https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue"><span>issue</span></a></li>
   <li> Aller au bureau des professeurs</li>
- <P>  <u> Il est préférable d'ouvrir un <a href="https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue"><span>issue</span></a> </u></p>
+ <P> <strong> <u> Il est préférable d'ouvrir un <a href="https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue"><span>issue</span></a> </u><strong> </p>
  </ul>
  
 <H1> Contributeurs: </H1>
@@ -29,4 +29,17 @@
   <li> www.youtube.com/ </li>
   <li> etc. </li>
  </ul>
+ 
+<H1> Comment Télécharger les codes? </H1>
+<ul>
+ <li> 
+...
+  Windows Powershell / Command Prompt / Linux
+  git clone https://github.com/user/Arduino_Code_Examples.git
+...
+ </li>
+ <li> <a href="  https://www.instructables.com/Downloading-Code-From-GitHub/
+"><span>Via GitHub.com</span></a> </li>
+ <li> <a href="https://desktop.github.com/"><span>Via GitHub Desktop</span></a> </li>
+</ul>
  
