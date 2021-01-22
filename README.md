@@ -41,8 +41,7 @@
 ```
 
 <ul>
- <li> <a href="  https://www.instructables.com/Downloading-Code-From-GitHub/
-"><span>Via GitHub.com</span></a> </li>
+ <li> <a href="https://www.instructables.com/Downloading-Code-From-GitHub/"><span>Via GitHub.com</span></a> </li>
  <li> <a href="https://desktop.github.com/"><span>Via GitHub Desktop</span></a> </li>
 </ul>
  
