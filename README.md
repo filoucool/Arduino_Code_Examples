@@ -15,9 +15,9 @@
  
 <H1> Contributeurs: </H1>
 <ul>
-  <li> Félix Chenette-Stewart</li>
-  <li> Rachid Benali</li>
-  <li> Mauricio Gomez </li>
+  <li> Félix Chenette-Stewart [Étudiant]</li>
+  <li> Rachid Benali [Professeur]</li>
+  <li> Mauricio Gomez [Professeur]</li>
  </ul>
  
  <H1> Liens YouTube: </H1>
