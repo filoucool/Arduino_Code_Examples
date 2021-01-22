@@ -37,7 +37,7 @@
 
 ```
  {Windows Powershell / Command Prompt / Linux}
-  > git clone https://github.com/user/Arduino_Code_Examples.git
+  > git clone https://github.com/filoucool/Arduino_Code_Examples.git
 ```
 
 <ul>
