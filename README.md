@@ -9,7 +9,7 @@
 <ul>
   <li> Félix Chenette-Stewart, Rachid Benali ou Mauricio Gomez sur le Omnivox Gérald-Godin</li>
   <li> Ouvrir un <a href="https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue"><span>issue</span></a></li>
-  <li> Mauricio Gomez </li>
+  <li> Aller au bureau des professeurs</li>
  </ul>
  
 <H1> Contributeurs: </H1>
