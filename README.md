@@ -34,10 +34,12 @@
 <ul>
  <li> Via git clone </li>
 </ul>
+
 ```
- Windows Powershell / Command Prompt / Linux
-  git clone https://github.com/user/Arduino_Code_Examples.git
+ {Windows Powershell / Command Prompt / Linux}
+  > git clone https://github.com/user/Arduino_Code_Examples.git
 ```
+
 <ul>
  <li> <a href="  https://www.instructables.com/Downloading-Code-From-GitHub/
 "><span>Via GitHub.com</span></a> </li>
