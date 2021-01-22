@@ -5,11 +5,12 @@
 
 </P>
 
-<H1> Vous ne trouvez pas ce qu'il vous faut?: </H1>
+<H1> Vous ne trouvez pas ce qu'il vous faut? </H1>
 <ul>
   <li> Félix Chenette-Stewart, Rachid Benali ou Mauricio Gomez sur le Omnivox Gérald-Godin</li>
   <li> Ouvrir un <a href="https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue"><span>issue</span></a></li>
   <li> Aller au bureau des professeurs</li>
+ <P> Il est préférable d'ouvrir un <a href="https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue"><span>issue</span></a> </p>
  </ul>
  
 <H1> Contributeurs: </H1>
