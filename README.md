@@ -5,7 +5,13 @@
 
 </P>
 
-
+<H1> Vous ne trouvez pas ce qu'il vous faut?: </H1>
+<ul>
+  <li> Félix Chenette-Stewart, Rachid Benali ou Mauricio Gomez sur le Omnivox Gérald-Godin</li>
+  <li> Ouvrir un <a href="https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue"><span>issue</span></a></li>
+  <li> Mauricio Gomez </li>
+ </ul>
+ 
 <H1> Contributeurs: </H1>
 <ul>
   <li> Félix Chenette-Stewart</li>
